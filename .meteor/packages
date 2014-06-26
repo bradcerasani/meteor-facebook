@@ -5,3 +5,5 @@
 
 standard-app-packages
 npm
+bootstrap
+router
